@@ -5,6 +5,7 @@ You can download cleanx by cloning Git repository:
 '''
  git clone https:/github.com/varham/cleanx
 '''  
+After cloning, type '''cd cleanx ''' in your terminal and run install.py as root
 Cleanx works with Python version 2.7.x on any platform
 # USAGE
 

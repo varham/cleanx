@@ -2,10 +2,9 @@
 Cleanx is a tool for cleaning Linux log files. It has three differrent mods - configuration mode, soft delete mode and grave delete mode.
 # INSTALLATION
 You can download cleanx by cloning Git repository:
-'''
  git clone https:/github.com/varham/cleanx
-'''  
-After cloning, type '''cd cleanx ''' in your terminal and run install.py as root
+  
+After cloning, type cd cleanx  in your terminal and run install.py as root
 Cleanx works with Python version 2.7.x on any platform
 # USAGE
 

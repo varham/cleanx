@@ -3,7 +3,7 @@ Cleanx is a tool for cleaning Linux log files. It has three differrent mods - co
 # INSTALLATION
 You can download cleanx by cloning Git repository:
 '''
- git clone https:/github.com/varham
+ git clone https:/github.com/varham/cleanx
 '''  
 Cleanx works with Python version 2.7.x on any platform
 # USAGE

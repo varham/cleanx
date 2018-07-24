@@ -130,18 +130,8 @@ def configure():
                 def_file = open(def_log_directory, 'a')
                 def_file.write(path+'\n')
                 def_file.close()
-        #for path in default_log_dir:
-        #    r = 0
-        #    for line in file.readlines():
-        #        line = line.rstrip('\n')
-        #        if path == line:
-        #            r += 1
-        #        else:
-        #            pass
-        #    if r < 1 and os.path.isfile(path):
-        #        def_file = open(def_log_directory, 'a')
-        #        def_file.write(path+'\n')
-        #        def_file.close()
+
+
     else:
         for path in default_log_dir:
             if os.path.isfile(path):

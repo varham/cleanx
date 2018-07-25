@@ -1,5 +1,5 @@
 # CLEANX 
-Cleanx is a tool for cleaning Linux log files. It has three differrent mods - configuration mode, soft delete mode and grave delete mode.
+Cleanx is a tool for cleaning Linux log files. It has three different modes - configuration mode, soft delete mode and grave delete mode.
 # INSTALLATION
 You can download cleanx by cloning Git repository:
  ```
